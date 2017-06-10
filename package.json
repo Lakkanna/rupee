@@ -1,0 +1,22 @@
+{
+  "name": "rupee",
+  "version": "1.0.0",
+  "description": "Rupee command which print Rupee symbol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsisodiya/rupee.git"
+  },
+  "keywords": [
+    "rupee"
+  ],
+  "author": "Narendra Sisodiya narendra@billexo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsisodiya/rupee/issues"
+  },
+  "homepage": "https://github.com/nsisodiya/rupee#readme"
+}
