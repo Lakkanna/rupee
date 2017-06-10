@@ -2,7 +2,11 @@
   "name": "rupee",
   "version": "1.0.0",
   "description": "Rupee command which print Rupee symbol",
-  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "rupee": "bin/rupee.js"
+  },
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
